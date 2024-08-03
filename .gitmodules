@@ -1,0 +1,3 @@
+[submodule "simple-vm"]
+	path = simple-vm
+	url = https://github.com/andreivettor/simple-vm.git
